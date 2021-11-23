@@ -1,0 +1,3 @@
+python train.py --gpus 1 --id predicate-extractor --resume_from predicate-extractor
+
+
